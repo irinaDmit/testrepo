@@ -9,4 +9,3 @@ for i in myString:
             if i == j:
                 sum += 1
         print("Количество символа", i, ": ", sum)
-
